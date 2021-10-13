@@ -1,5 +1,5 @@
 {
-    "name": "osians/CSVLib",
+    "name": "diouro/csv-lib",
     "description": "Uma biblioteca CSV simples e orientada a objetos, criada para a leitura de arquivos CSV e para uso em artigo do site http://sooho.com.br . Por momento essa biblioteca faz apenas a leitura de dados. Para uma versão futura, possivelmente irei implementar métodos novos, como o retorno de dados via ResultSet, Filtro de dados, Filtro por Colunas e a possibilidade de Escrita.",
     "keywords": [
         "csv"
@@ -15,7 +15,7 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/osians/CSVLib/issues"
+        "issues": "https://github.com/diouro/CSVLib/issues"
     },
     "require": {
         "php": ">=5.5"
