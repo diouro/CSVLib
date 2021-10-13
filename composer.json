@@ -1,0 +1,30 @@
+{
+    "name": "osians/CSVLib",
+    "description": "Uma biblioteca CSV simples e orientada a objetos, criada para a leitura de arquivos CSV e para uso em artigo do site http://sooho.com.br . Por momento essa biblioteca faz apenas a leitura de dados. Para uma versão futura, possivelmente irei implementar métodos novos, como o retorno de dados via ResultSet, Filtro de dados, Filtro por Colunas e a possibilidade de Escrita.",
+    "keywords": [
+        "csv"
+    ],
+    "homepage": "http://sooho.com.br",
+    "type": "library",
+    "license": "(Apache-2.0 and MIT)",
+    "authors": [
+        {
+            "name": "Wanderlei Santana",
+            "email": "sans.pds@gmail.com",
+            "homepage": "http://sooho.com.br"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/davidtsadler/ebay-sdk-php/issues"
+    },
+    "require": {
+        "php": ">=5.5"
+    },
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "CSVLib\\": "src/"
+        }
+    },
+    "autoload-dev": {}
+}
